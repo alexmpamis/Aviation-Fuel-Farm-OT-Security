@@ -1,0 +1,15 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*~
+
+# Logs not intended for version control
+*.log
+!13_Validation_Testing/evidence/logs/01_ufw_blocked_attempts.log
